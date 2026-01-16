@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+int a, b;
+c=a+b;
+printf("Enter value for a and b", a, b);
+scanf("%d,%d", &a,&b);
+printf("The sum is:", c);
+scanf("%d", &c);
+getchr();
+}
+
